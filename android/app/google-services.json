@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "843396512755",
+    "project_id": "storm-wall-327504",
+    "storage_bucket": "storm-wall-327504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843396512755:android:35b1ba910707352042f086",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ex_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843396512755-p8lm5u1maoufhok9k7tjb68dr9d6et3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_ex_1",
+            "certificate_hash": "8e95daae174446b635ae8812fa8cd510d059b141"
+          }
+        },
+        {
+          "client_id": "843396512755-bg6kup07o8ig8l5qi1p7dtdltukom21u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqaLngfon7_IpGhF0iSEPCH787y7NQUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843396512755-bg6kup07o8ig8l5qi1p7dtdltukom21u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
